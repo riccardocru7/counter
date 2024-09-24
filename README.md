@@ -25,6 +25,8 @@ Premi il pulsante "+" per incrementare il numero.
 Premi il pulsante "-" per diminuire il numero.
 Il valore attuale del contatore viene sempre visualizzato al centro dello schermo.
 
+Deployment realizzato tramite GitHub
+
 
 Autore:
 

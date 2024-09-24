@@ -1,0 +1,54 @@
+body {
+    font-family: ,sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-image: url('../img/sfondo.jpg');
+    background-size: cover;
+    
+
+}
+
+#counter {
+    font-size: 70px;
+    margin: 50px;
+    color: aliceblue;
+    
+}
+
+
+h1 {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 70px;
+    color: aliceblue;
+
+}
+
+
+button {
+    font-size: 36px;
+    padding: 50px 60px;
+    margin: 40px;
+    cursor: pointer;
+    background-color: #1f6922;
+    border:none;
+    border-radius: 10px;
+    color: white;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+
+}
+
+button:hover {
+
+    background-color: #45a049;
+    transfor: scale(1.1);
+    box-shadow: 0 6px 8px rgba(0,0,0,0.2);
+}
+
+button:active {
+
+    background-color: #388e3c;
+    transform: scale(1.5);
+    box-shadow: 0 3px 4px rgba(0,0,0,0.2);
+}

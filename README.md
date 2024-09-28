@@ -27,6 +27,7 @@ Il valore attuale del contatore viene sempre visualizzato al centro dello scherm
 
 Deployment realizzato tramite GitHub
 
+LINK per la visualizzazione del Progetto: https://riccardocru7.github.io/counter/
 
 Autore:
 
